@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 40 40" data-name="Layer 1" id="Layer_1"><path data-cppathid="10000" style="fill: #fff;" d="M20,35c-8.27,0-15-6.73-15-15S11.73,5,20,5s15,6.73,15,15-6.73,15-15,15Zm0-28c-7.17,0-13,5.83-13,13s5.83,13,13,13,13-5.83,13-13-5.83-13-13-13Z"/><polygon data-cppathid="10001" style="fill: #fff;" points="27 26.79 19 20.49 19 13 21 13 21 19.51 28.23 25.22 27 26.79"/></svg>

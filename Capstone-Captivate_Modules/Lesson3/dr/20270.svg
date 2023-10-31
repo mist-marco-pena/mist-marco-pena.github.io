@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 30 40" data-name="Layer 1" id="Layer_1"><defs><style>.cls-1{fill:#1a50fc;}.cls-2{fill:#f4f4f4;}</style></defs><title/><path data-cppathid="10000" d="M15,1.12a14,14,0,0,1,14,14c0,7.47-9.61,12.79-13.42,23.34a.61.61,0,0,1-1.16,0C10.61,27.91,1,22.59,1,15.12a14,14,0,0,1,14-14" class="cls-1"/><circle data-cppathid="10001" r="6" cy="15" cx="15" class="cls-2"/></svg>

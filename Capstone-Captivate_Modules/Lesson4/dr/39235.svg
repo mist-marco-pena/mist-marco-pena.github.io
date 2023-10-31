@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" xml:space="preserve" style="enable-background:new 0 0 40 40;" viewBox="0 0 40 40" y="0px" x="0px" id="Layer_1" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
+	.st0{fill:#143A78;}
+</style><path data-cppathid="10000" d="M20,35c-8.3,0-15-6.7-15-15S11.7,5,20,5s15,6.7,15,15S28.3,35,20,35z M20,7C12.8,7,7,12.8,7,20s5.8,13,13,13  s13-5.8,13-13S27.2,7,20,7z" class="st0"/><polygon data-cppathid="10001" points="27,26.8 19,20.5 19,13 21,13 21,19.5 28.2,25.2 " class="st0"/></svg>
