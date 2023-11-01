@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 30 30" data-name="Layer 1" id="Layer_1"><defs><style>.cls-1{fill:none;stroke:#1a50fc;stroke-miterlimit:10;stroke-width:3px;}.cls-2{fill:#1a50fc;}</style></defs><title/><circle data-cppathid="10000" r="11.5" cy="15" cx="15" class="cls-1"/><polygon data-cppathid="10001" points="13 10.64 19.46 15 13 19.36 13 10.64" class="cls-2"/></svg>
